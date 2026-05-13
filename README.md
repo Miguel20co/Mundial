@@ -1,6 +1,6 @@
 # Mundial. java
 
-   package Grupo;
+      package Grupo;
    import java.util.*;
 
 
