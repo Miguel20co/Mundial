@@ -1,7 +1,7 @@
 # Mundial. java
 
       package Grupo;
-   import java.util.*;
+       import java.util.*;
 
 
     class Grupo { String nombre; Grupo(String n) { nombre = n; } }
